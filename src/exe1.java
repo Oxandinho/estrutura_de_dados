@@ -14,7 +14,7 @@ public class exe1 {
 
      */
         int [] funcionalidades = new int[10 ];
-        
+
 
     }
 }
