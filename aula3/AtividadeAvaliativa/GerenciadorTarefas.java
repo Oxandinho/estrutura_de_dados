@@ -16,6 +16,7 @@ public class GerenciadorTarefas{
     public void concluirTarefa(){
         if(!filaTarefas.isEmpty()){
             filaTarefas.poll();
+            System.out.println("Tarefa concluída!");
         }
         else{
                 System.out.println("Sem tarefas!");
